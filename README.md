@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Social Media Manager — Backend
 
 Backend for a multi-agent social media manager web app. A business owner
@@ -291,3 +292,6 @@ All errors return: `{ "error": { "code": "...", "message": "..." } }`
 - Editing, versions, regeneration, export (34 tests)
 - Reports, finance, history (26 tests)
 - Dashboard and hardening (21 tests)
+=======
+
+>>>>>>> 8ba39df05b9d05576decf283680b87c8dc07ff08
